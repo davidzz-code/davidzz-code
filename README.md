@@ -1,6 +1,6 @@
 # David Ramírez
 
-- 👨‍💻 Interested in frontend and IA development
+- 👨‍💻 Interested in frontend, UX and IA development
 - 📚 Currently studying web development
 - 🎵 I'm a sound technician and musician. One of my goals is to mix in a creative way web development with sound and music.
 
