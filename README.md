@@ -1,11 +1,11 @@
 # David Ramírez
 
 # ⚡️ About me:
-🔭 I’m currently working on Biblioteca_Java
-📚 Studying web development
-🌱 I’m currently learning Java, SQL and Javascript
-⚡ Next to web development, music is my passion
-🎵 One of my goals is to mix in a creative way web development with music and sound
+🔭 I’m currently working on Biblioteca_Java<br>
+📚 Studying web development<br>
+🌱 I’m currently learning Java, SQL and Javascript<br>
+⚡ Next to web development, music is my passion<br>
+🎵 One of my goals is to mix in a creative way web development with music and sound<br>
 
 
 ## 🌐 Socials:
