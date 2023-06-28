@@ -1,5 +1,5 @@
 # ⚡️ David Ramírez
-- 🔭 I’m currently working on [ChatWeb](https://github.com/davidzz-code/ChatWeb.git)<br>
+- 🔭 I’m currently working on [Galeria](https://github.com/davidzz-code/Galeria.git)<br>
 - 📚 Studying web development<br>
 - 🌱 I’m currently learning Java, SQL and Javascript<br>
 - ⚡ Next to web development, music is my passion<br>
