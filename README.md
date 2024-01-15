@@ -1,7 +1,7 @@
 # ⚡️ David Ramírez
 - 🔭 I’m currently working on [Galeria](https://github.com/davidzz-code/Galeria.git)<br>
 - 📚 Studying web development<br>
-- 🌱 I’m currently learning Java, SQL and Javascript<br>
+- 🌱 I’m currently learning Laravel, Boostrap and Javascript<br>
 - ⚡ Next to web development, music is my passion<br>
 - 🎵 One of my goals is to mix in a creative way web development with music and sound<br>
 
