@@ -1,6 +1,6 @@
 # ⚡️ David Ramírez
 - 🔭 I’m currently working on [Granny's recipes](https://github.com/davidzz-code/granny_recipes.git)<br>
-- 📚 Studying web development<br>
+- 📚 Learning Angular<br>
 - 🌱 I’m currently learning Laravel and Vue<br>
 - ⚡ Next to web development, music is my passion<br>
 - 🎵 One of my goals is to mix in a creative way web development with music and sound<br>
