@@ -1,5 +1,5 @@
 # ⚡️ David Ramírez
-- 🔭 I’m currently working on [Spotify clone](https://github.com/davidzz-code/Spotify-Angular-clone.git)<br>
+- 🔭 I’m currently working on [My Portfolio](https://github.com/davidzz-code/portfolio.git)<br>
 - 🌱 I’m currently learning Angular and Vue<br>
 - ⚡ Next to web development, music is my passion<br>
 - 🎵 One of my goals is to mix in a creative way web development with music and sound<br>
