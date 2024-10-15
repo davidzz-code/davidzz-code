@@ -1,6 +1,6 @@
 # ⚡️ David Ramírez
 - 🔭 I’m currently working on [My Portfolio](https://github.com/davidzz-code/portfolio.git)<br>
-- 🌱 I’m currently learning React<br>
+- 🌱 I’m currently learning Machine learning and AI programming using Python<br>
 - ⚡ Next to web development, music is my passion<br>
 - 🎵 One of my goals is to mix in a creative way web development with music and sound<br>
 
